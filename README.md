@@ -43,6 +43,13 @@ python -m pip install openai-whisper torch ffmpeg-python pyaudio pyserial
 ```bash
 # List installed packages
 python -m pip list
+# list
+# hisper 
+# ffmpeg
+# pyaudio
+# pyserial
+# torch 
+
 
 # Test Whisper import
 python -c "import whisper; print('Whisper is ready!')"
